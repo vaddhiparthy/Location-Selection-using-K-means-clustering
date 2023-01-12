@@ -1,4 +1,3 @@
 ## Location Analysis using K-Means Clustering
 
-The analysis has been carried out using geospatial data from various sources on Indian restaurants in New York City using K-Means Clustering.
-The ideal location has been selected with criteria that there should be fewer restaurants with similar cuisine.
+An analysis using geospatial data and advanced machine learning techniques has been conducted to identify the optimal location for a new Indian restaurant in New York City. By collecting and utilizing data from various sources on existing Indian restaurants in the area, a robust K-Means Clustering model was developed and applied to identify clusters of similar cuisine. Through this process, a location was selected that not only possesses a high potential for success but also a unique culinary niche with minimal competition. This approach ensures that the new restaurant will stand out in a crowded market and have the best chance for success.
